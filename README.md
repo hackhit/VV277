@@ -1,66 +1,59 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <a href="https://virtudyvictoria.logia" target="_blank">
+    <img src="URL_DE_TU_LOGO" width="400" alt="Logia Virtud y Victoria">
+  </a>
 </p>
 
-## About Laravel
+<p align="center">
+  <strong>Respetable Logia Virtud y Victoria Nro 277</strong>
+</p>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<p align="center">
+  <a href="https://virtudyvictoria.logia" target="_blank">
+    <img src="https://img.shields.io/badge/Tradición-Desde%202023-blue" alt="Fundación">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Ubicación-Venezuela-success" alt="Ubicación">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Fraternidad-Armonía-yellow" alt="Principios">
+  </a>
+</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Acerca de la Logia Virtud y Victoria
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+La **Respetable Logia Virtud y Victoria** se distingue por su dedicación a la práctica de la fraternidad, el estudio de los valores universales y el compromiso con el desarrollo integral de sus miembros y la sociedad. Fundada en 2023, ha sido un pilar fundamental de inspiración y sabiduría en nuestra comunidad.
 
-## Learning Laravel
+### Valores Principales
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Fraternidad:** La hermandad nos guía hacia la unión y el respeto mutuo.
+- **Luz y Sabiduría:** Buscamos el perfeccionamiento espiritual e intelectual.
+- **Trabajo:** En cada jornada, el esfuerzo y la constancia forman parte de nuestro legado.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Recursos y Documentación
 
-## Laravel Sponsors
+Estamos comprometidos con la enseñanza y el aprendizaje continuo. Aquí tienes algunos recursos que te pueden interesar:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- **[Historia de la Masonería](URL_HISTORIA):** Conoce más sobre nuestros orígenes y principios.
+- **[Documentos Importantes](URL_DOCUMENTOS):** Encuentra aquí reglamentos, actas y mucho más.
+- **[Eventos Anuales](URL_EVENTOS):** Participa en nuestras reuniones, talleres y celebraciones.
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## Agradecimientos
 
-## Contributing
+Nuestro más profundo agradecimiento a todos los miembros que hacen posible mantener vivos nuestros principios. Su dedicación, esfuerzo y compromiso nos inspiran a seguir adelante. Si deseas formar parte o contribuir con nuestras actividades, no dudes en contactarnos.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+## Código de Conducta
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+La Logia Virtud y Victoria promueve el respeto y la inclusión. Pedimos a todos nuestros miembros y visitantes que lean y respeten nuestro [Código de Conducta](URL_CODIGO_CONDUCTA).
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Licencia
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+El contenido de esta página está protegido bajo los principios masónicos y está abierto al uso comunitario con fines éticos y educativos. Consulta los detalles en nuestra página de [Licencia](URL_LICENCIA).
